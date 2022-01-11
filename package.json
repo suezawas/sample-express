@@ -1,0 +1,22 @@
+{
+  "name": "sample-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suezawas/sample-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suezawas/sample-express/issues"
+  },
+  "homepage": "https://github.com/suezawas/sample-express#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
